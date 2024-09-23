@@ -4,6 +4,19 @@ Lab work 4. Arrays, IComparer&lt;T> and IEnumerator&lt;T> interfaces, yield oper
 
 ## Project structure
 ```
+.
+├── CarCatalogV2App
+│   ├── CarCatalogV2App.csproj
+│   └── Program.cs
+├── CarComparerApp
+│   ├── CarComparerApp.csproj
+│   └── Program.cs
+├── .gitignore
+├── LICENSE
+├── MyMatrixApp
+│   ├── MyMatrixApp.csproj
+│   └── Program.cs
+└── README.md
 ```
 
 ## License
