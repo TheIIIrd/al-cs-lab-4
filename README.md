@@ -1,7 +1,6 @@
 # al-cs-lab-4
 Arrays, IComparer<T> and IEnumerator<T> interfaces, yield operator in C#
 
-
 ## Project structure
 ```
 .
