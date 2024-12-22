@@ -4,18 +4,18 @@ Arrays, IComparer<T> and IEnumerator<T> interfaces, yield operator in C#
 ## Project structure
 ```
 .
-├── CarCatalogV2App
-│   ├── CarCatalogV2App.csproj
-│   └── Program.cs
-├── CarComparerApp
-│   ├── CarComparerApp.csproj
-│   └── Program.cs
-├── .gitignore
 ├── LICENSE
-├── MyMatrixApp
-│   ├── MyMatrixApp.csproj
-│   └── Program.cs
-└── README.md
+├── README.md
+└── src
+    ├── CarCatalogV2App
+    │   ├── CarCatalogV2App.csproj
+    │   └── Program.cs
+    ├── CarComparerApp
+    │   ├── CarComparerApp.csproj
+    │   └── Program.cs
+    └── MyMatrixApp
+        ├── MyMatrixApp.csproj
+        └── Program.cs
 ```
 
 ## License
